@@ -6,6 +6,7 @@ class QWidget;
 
 namespace jumi
 {
+    const int minimum_toolbar_width = 200;
 
     class main_window : public QMainWindow
     {
